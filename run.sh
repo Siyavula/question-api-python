@@ -10,3 +10,4 @@ source my.env
 echo "${yellow}Running practice_example.py${reset}"
 venv/bin/python practice_example.py
 echo "${green}Execution completed.${reset}"
+echo "${yellow}Open the newly generated HTML files in your browser to view the different Practice API states.${reset}"
