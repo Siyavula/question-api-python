@@ -36,4 +36,4 @@ This repo serves as a demo application written in [Python](https://www.python.or
 #### Set your username and password in `my.env`
 #### Run the app
     ./run.sh
-#### Open the newly generated HTML files in your browser to demonstrate the different Practice API states.
+#### Open the newly generated HTML files in your browser to view the different Practice API states.
