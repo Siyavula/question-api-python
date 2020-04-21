@@ -26,9 +26,9 @@ This repo serves as a demo application written in [Python](https://www.python.or
 
 ## Installation
 #### Clone the repo
-    git clone git@github.com:Siyavula/practice-api-python-pyramid.git
-#### Go to the `practice-api-python-pyramid` directory
-    cd practice-api-python-pyramid
+    git clone git@github.com:Siyavula/practice-api-python.git
+#### Go to the `practice-api-python` directory
+    cd practice-api-python
 #### Install the virtual environment and app
     ./install.sh
 #### Make a personal `.env` copy
