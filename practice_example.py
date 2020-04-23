@@ -76,7 +76,7 @@ def render_question_responsive(question_html):
                 </div>
             </main>
         </body>
-        <script src="https://www.siyavula.com/static/themes/emas/bower_components/MathJax/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script>
+        <script src="https://www.siyavula.com/static/themes/emas/node_modules/mathjax/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script>
         <script src="https://www.siyavula.com/static/themes/emas/practice-api/practice-api.min.js"></script>
     </html>""".format(question_html=question_html)
 
