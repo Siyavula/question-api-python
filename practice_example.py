@@ -65,7 +65,7 @@ def render_question_responsive(question_html):
         <head>
             <title>Practice Example</title>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>
-            <link rel="stylesheet" href="https://www.emas/static/themes/emas/practice-api/practice-api.min.css"/>
+            <link rel="stylesheet" href="https://www.siyavula.com/static/themes/emas/practice-api/practice-api.min.css"/>
         </head>
         <body>
             <main class="sv-region-main emas sv">
@@ -76,8 +76,8 @@ def render_question_responsive(question_html):
                 </div>
             </main>
         </body>
-        <script src="https://www.emas/static/themes/emas/bower_components/MathJax/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script>
-        <script src="https://www.emas/static/themes/emas/practice-api/practice-api.min.js"></script>
+        <script src="https://www.siyavula.com/static/themes/emas/bower_components/MathJax/MathJax.js?config=TeX-MML-AM_HTMLorMML-full"></script>
+        <script src="https://www.siyavula.com/static/themes/emas/practice-api/practice-api.min.js"></script>
     </html>""".format(question_html=question_html)
 
 
@@ -89,7 +89,7 @@ def render_question_basic(question_html):
         <title>Practice API</title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-        <link rel="stylesheet" href="https://www.emas/static/themes/mobile/practice-api/practice-api.min.css"/>
+        <link rel="stylesheet" href="https://www.siyavula.com/static/themes/mobile/practice-api/practice-api.min.css"/>
       </head>
       <body class="za-mobile mobile sv">
         <div id="margins">
